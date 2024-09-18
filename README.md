@@ -27,27 +27,27 @@
 
 In this project, the focus was on analyzing customer data from a retail store to identify different customer segments based on their purchasing behavior. The project involved data cleaning and preprocessing, exploratory data analysis to identify patterns in the data, and clustering techniques (e.g., K-means, hierarchical clustering) to segment the customers based on their purchasing behavior. The analysis was presented using data visualization techniques (e.g., scatter plots, heatmaps, bar charts) to make it easier to understand. Finally, recommendations were provided based on the analysis for how the retail store can tailor their marketing strategies and improve customer engagement for each customer segment. The skills used in this project include data cleaning and preprocessing, exploratory data analysis, clustering techniques, and data visualization.
 
-###Real Estate Market Analysis
-##Description:
+### Real Estate Market Analysis
+## Description:
 This project involved analyzing a real estate dataset to uncover insights into market trends, property values, and factors influencing prices. The goal was to provide data-driven insights to help potential investors and real estate companies make informed decisions.
 
-##Dataset:
+## Dataset:
 The dataset contained information about various properties, including features such as location, size, number of bedrooms and bathrooms, year built, property type, and sale price. .
 
-##Objective:
+## Objective:
 - The key objectives of this analysis were:
 
-##Identifying trends in property prices across different regions.
+## Identifying trends in property prices across different regions.
 Determining the most important factors affecting property prices.
 Building predictive models to forecast future property values.
 
-##Tools Used:
+## Tools Used:
 - Python: For data cleaning, exploration, and analysis using libraries like Pandas, NumPy, and Scikit-learn.
 - SQL: To extract and query data from a database.
 - Tableau/Power BI: To create interactive visualizations and dashboards.
 - Machine Learning: Applied linear regression and random forest models to predict future property prices.
 
-##Approach:
+## Approach:
 - Data Cleaning & Preprocessing:
 - Handled missing values, outliers, and transformed categorical variables (e.g., location, property type) using one-hot encoding.
 - Performed exploratory data analysis (EDA) to understand the relationships between different variables and property prices.
@@ -60,7 +60,7 @@ Evaluated models based on metrics like R-squared and Mean Absolute Error (MAE).
 Developed an interactive dashboard using Tableau that allows users to filter by location, property type, and price range.
 Visualized market trends, including price changes over time, heatmaps of high-value regions, and property distributions.
 
-##Results:
+## Results:
 - The analysis revealed that location (proximity to schools, city centers, etc.) and property size were the most significant factors driving prices.
 - The predictive models achieved an R-squared of 0.85, indicating a strong fit for price prediction based on key property features.
 - The dashboard was used by real estate agents to identify high-demand areas and provide better price estimates for clients.
