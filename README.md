@@ -32,7 +32,7 @@ In this project, the focus was on analyzing customer data from a retail store to
 This project involved analyzing a real estate dataset to uncover insights into market trends, property values, and factors influencing prices. The goal was to provide data-driven insights to help potential investors and real estate companies make informed decisions.
 
 ## Dataset:
-The dataset contained information about various properties, including features such as location, size, number of bedrooms and bathrooms, year built, property type, and sale price. .
+The dataset contained information about various properties, including features such as location, size, number of bedrooms and bathrooms, year built, property type, and sale price. 
 
 ## Objective:
 - The key objectives of this analysis were:
